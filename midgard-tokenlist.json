@@ -9206,6 +9206,14 @@
       "symbol": "TBROS",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/pulsecoin-io/Midgard-tokenlist/main/token-logo-optimized/0xdf6c51925881f111c71ac272d999a681f2436179.webp"
+    },
+    {
+      "chainId": 369,
+      "name": "King",
+      "address": "0x100D63A2681863c3c53F21D43d6Fb3B97aFc71ad",
+      "symbol": "KING",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/pulsecoin-io/Midgard-tokenlist/main/token-logo-optimized/0x100d63a2681863c3c53f21d43d6fb3b97afc71ad.webp"
     }
   ]
 }
