@@ -1,0 +1,19 @@
+[
+  {
+    "address": "0x664bAaF75570E167D66Fc0056C2d527a1d6809Cd",
+    "tier": "lite",
+    "name": "RPE",
+    "symbol": "RPE",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/pulsecoin-io/midgard-tokenlist/main/token-logo-optimized/0x664baaf75570e167d66fc0056c2d527a1d6809cd.webp",
+    "links": {
+      "website": "",
+      "twitter": "",
+      "x": "",
+      "discord": ""
+    },
+    "chart": "",
+    "description": "RPE is a token on the Pulsecoin network.",
+    "tags": ["stablecoin"]
+  }
+]
