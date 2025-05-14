@@ -1,5 +1,6 @@
 import { readFileSync, writeFileSync, existsSync } from "fs";
 import { join } from "path";
+import { isAddress } from "viem";
 
 const tokenlistPath = "./midgard-tokenlist.json";
 // Remove output path since we'll update the original file
@@ -27,34 +28,43 @@ try {
 
   // Update the logo URLs to point to WebP files in token-logo-optimized folder
   let updatedCount = 0;
+  let skipCount = 0;
 
   tokenlistData.tokens = tokenlistData.tokens.map((token) => {
+    // Skip if address is not valid
+    if (!token.address || !isAddress(token.address)) {
+      console.log(`Skipping token ${token.name || "unknown"}: Invalid address`);
+      skipCount++;
+      return token;
+    }
+
     if (token.logoURI) {
+      // Get lowercase address
+      const lowercaseAddress = token.address.toLowerCase();
+
       // Check if the path contains token-logo and is not already pointing to token-logo-optimized
       if (
         token.logoURI.includes("token-logo") &&
         !token.logoURI.includes("token-logo-optimized")
       ) {
-        // Get the original path parts
-        const pathParts = token.logoURI.split("/");
+        // Create the new path with lowercase address
+        const baseUrl =
+          "https://raw.githubusercontent.com/pulsecoin-io/Midgard-tokenlist/main/token-logo-optimized/";
+        token.logoURI = `${baseUrl}${lowercaseAddress}.webp`;
+        updatedCount++;
+      }
+      // Check if we need to convert the address to lowercase in existing optimized URLs
+      else if (token.logoURI.includes("token-logo-optimized")) {
+        // Extract the current address from the URL
+        const urlParts = token.logoURI.split("/");
+        const filenameWithExt = urlParts[urlParts.length - 1];
+        const filename = filenameWithExt.split(".")[0];
 
-        // Find the token-logo part in the path and replace it with token-logo-optimized
-        const tokenLogoIndex = pathParts.findIndex(
-          (part) => part === "token-logo" || part.endsWith("/token-logo")
-        );
-
-        if (tokenLogoIndex >= 0) {
-          pathParts[tokenLogoIndex] = pathParts[tokenLogoIndex].replace(
-            "token-logo",
-            "token-logo-optimized"
-          );
-
-          // Rebuild the path, keeping the current extension (webp or png)
-          const newPath = pathParts.join("/");
-
-          // If still png, convert to webp
-          token.logoURI = newPath.replace(/\.png$/i, ".webp");
-
+        // If the filename is not already lowercase, update it
+        if (filename !== lowercaseAddress) {
+          const baseUrl =
+            "https://raw.githubusercontent.com/pulsecoin-io/Midgard-tokenlist/main/token-logo-optimized/";
+          token.logoURI = `${baseUrl}${lowercaseAddress}.webp`;
           updatedCount++;
         }
       }
@@ -69,6 +79,7 @@ try {
 Update complete:
 - Total tokens: ${tokenlistData.tokens.length}
 - Updated logo URLs: ${updatedCount}
+- Skipped tokens: ${skipCount}
 - Original tokenlist updated: ${tokenlistPath}
 - Backup saved to: ${backupPath}
 `);
