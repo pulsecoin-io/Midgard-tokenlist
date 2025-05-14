@@ -29,7 +29,7 @@ const processImages = async () => {
 
     try {
       await sharp(sourcePath)
-        .resize(48, 48)
+        .resize(80, 80)
         .webp({ quality: 90 })
         .toFile(outputPath);
 
