@@ -49,6 +49,14 @@
     },
     {
       "chainId": 369,
+      "name": "PulseCoin",
+      "address": "0x4C8218Dc22e478963c02748857245FAD79AAd0c6",
+      "symbol": "PLSC",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/pulsecoin-io/Midgard-tokenlist/main/token-logo-optimized/0x4c8218dc22e478963c02748857245fad79aad0c6.webp"
+    },
+    {
+      "chainId": 369,
       "name": "Dai from Ethereum",
       "address": "0xefD766cCb38EaF1dfd701853BFCe31359239F305",
       "symbol": "DAI",
@@ -1062,14 +1070,6 @@
       "symbol": "NBA",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/pulsecoin-io/Midgard-tokenlist/main/token-logo-optimized/0x93ad3c61f5e39c0da07fcebae0261eaa2d3a9314.webp"
-    },
-    {
-      "chainId": 369,
-      "name": "PulseCoin",
-      "address": "0x4C8218Dc22e478963c02748857245FAD79AAd0c6",
-      "symbol": "PLSC",
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/pulsecoin-io/Midgard-tokenlist/main/token-logo-optimized/0x4c8218dc22e478963c02748857245fad79aad0c6.webp"
     },
     {
       "chainId": 369,
