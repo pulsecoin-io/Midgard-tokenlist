@@ -9230,6 +9230,14 @@
       "symbol": "RPE",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/pulsecoin-io/Midgard-tokenlist/main/token-logo-optimized/0x664baaf75570e167d66fc0056c2d527a1d6809cd.webp"
+    },
+    {
+      "chainId": 369,
+      "name": "SUN Minimeal SOIL",
+      "address": "0xbd63FA573A120013804e51B46C56F9b3e490f53C",
+      "symbol": "SOIL",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/pulsecoin-io/Midgard-tokenlist/main/token-logo-optimized/0xbd63fa573a120013804e51b46c56f9b3e490f53c.webp"
     }
   ]
 }
