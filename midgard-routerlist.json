@@ -1,0 +1,20 @@
+[
+  {
+    "address": "0x98bf93ebf5c380c0e6ae8e192a7e2ae08edacc02",
+    "name": "PulseX",
+    "version": "V1",
+    "logo": "https://raw.githubusercontent.com/pulsecoin-io/Midgard-tokenlist/main/token-logo-optimized/0x95b303987a60c71504d99aa1b13b4da07b0790ab.webp" // Using PLSX logo
+  },
+  {
+    "address": "0x165c3410fc91ef562c50559f7d2289febed552d9",
+    "name": "PulseX",
+    "version": "V2",
+    "logo": "https://raw.githubusercontent.com/pulsecoin-io/Midgard-tokenlist/main/token-logo-optimized/0x95b303987a60c71504d99aa1b13b4da07b0790ab.webp" // Using PLSX logo
+  },
+  {
+    "address": "0x6bf228eb7f8ad948d37ded07e595efddfaaf88a6",
+    "name": "Piteas",
+    "version": "V2",
+    "logo": "https://raw.githubusercontent.com/pulsecoin-io/Midgard-tokenlist/main/token-logo-optimized/0x2a06a971fe6ffa002fd242d437e3db2b5cc5b433.webp" // Using PLSX logo
+  }
+]

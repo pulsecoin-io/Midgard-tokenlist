@@ -1613,7 +1613,7 @@
       "address": "0x22b2f187E6EE1f9Bc8f7Fc38bB0D9357462800e4",
       "symbol": "SOIL",
       "decimals": 2,
-      "logoURI": "https://raw.githubusercontent.com/pulsecoin-io/Midgard-tokenlist/main/token-logo-optimized/0x22b2f187e6ee1f9bc8f7fc38bb0d9357462800e4.webp"
+      "logoURI": ""
     },
     {
       "chainId": 369,
@@ -9238,6 +9238,38 @@
       "symbol": "RPE",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/pulsecoin-io/Midgard-tokenlist/main/token-logo-optimized/0x664baaf75570e167d66fc0056c2d527a1d6809cd.webp"
+    },
+    {
+      "chainId": 369,
+      "name": "TOP HAT",
+      "address": "0xc2472877F596D5052883B93777325dD7F7d11c96",
+      "symbol": "TOPHAT",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/pulsecoin-io/Midgard-tokenlist/main/token-logo-optimized/0xc2472877f596d5052883b93777325dd7f7d11c96.webp"
+    },
+    {
+      "chainId": 369,
+      "name": "BEAST",
+      "address": "0xdc60f0EE40bEd3078614bE202555d2f07d38166e",
+      "symbol": "BEAST",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/pulsecoin-io/Midgard-tokenlist/main/token-logo-optimized/0xdc60f0ee40bed3078614be202555d2f07d38166e.webp"
+    },
+    {
+      "chainId": 369,
+      "name": "Conspiracy",
+      "address": "0x1DDacd2714590D384bdAAD014C991EaCbeC4c9ec",
+      "symbol": "SECRET",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/pulsecoin-io/Midgard-tokenlist/main/token-logo-optimized/0x1ddacd2714590d384bdaad014c991eacbec4c9ec.webp"
+    },
+    {
+      "chainId": 369,
+      "name": "VAULT",
+      "address": "0x567E98869d346C004c7262CAc1111bAD53403691",
+      "symbol": "HIDDEN",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/pulsecoin-io/Midgard-tokenlist/main/token-logo-optimized/0x567E98869d346C004c7262CAc1111bAD53403691.webp"
     }
   ]
 }
