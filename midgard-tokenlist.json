@@ -105,6 +105,14 @@
     },
     {
       "chainId": 369,
+      "name": "Briah",
+      "address": "0xA80736067abDc215a3b6B66a57c6e608654d0C9a",
+      "symbol": "Briah",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/pulsecoin-io/Midgard-tokenlist/main/token-logo-optimized/0xA80736067abDc215a3b6B66a57c6e608654d0C9a.webp"
+    },
+    {
+      "chainId": 369,
       "name": "Piteas Token",
       "address": "0x2A06a971fE6ffa002fd242d437E3db2b5cC5B433",
       "symbol": "PTS",
@@ -9270,7 +9278,7 @@
       "symbol": "HIDDEN",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/pulsecoin-io/Midgard-tokenlist/main/token-logo-optimized/0x567e98869d346c004c7262cac1111bad53403691.webp"
-    }
+    },
     {
       "chainId": 369,
       "name": "TIDE Governance Token",
@@ -9502,14 +9510,6 @@
       "symbol": "INTERN",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/pulsecoin-io/Midgard-tokenlist/main/token-logo-optimized/0x0eB38452FdCCab988838d9BE74e0f00239A876E6.webp"
-    },
-    {
-      "chainId": 369,
-      "name": "Briah",
-      "address": "0xA80736067abDc215a3b6B66a57c6e608654d0C9a",
-      "symbol": "Briah",
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/pulsecoin-io/Midgard-tokenlist/main/token-logo-optimized/0xA80736067abDc215a3b6B66a57c6e608654d0C9a.webp"
     },
     {
       "chainId": 369,
