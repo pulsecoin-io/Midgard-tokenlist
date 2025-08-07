@@ -9271,5 +9271,277 @@
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/pulsecoin-io/Midgard-tokenlist/main/token-logo-optimized/0x567e98869d346c004c7262cac1111bad53403691.webp"
     }
+    {
+      "chainId": 369,
+      "name": "TIDE Governance Token",
+      "address": "0xdedBCc8D9458B2556375680FbA297C6aCa6c7DCf",
+      "symbol": "TIDE",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/pulsecoin-io/Midgard-tokenlist/main/token-logo-optimized/0xdedBCc8D9458B2556375680FbA297C6aCa6c7DCf.webp"
+    },
+    {
+      "chainId": 369,
+      "name": "Communis Volume",
+      "address": "0xe34Cab4Ccf271f4F149C4Cc43697C5C5810c835a",
+      "symbol": "COMV",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/pulsecoin-io/Midgard-tokenlist/main/token-logo-optimized/0xe34Cab4Ccf271f4F149C4Cc43697C5C5810c835a.webp"
+    },
+    {
+      "chainId": 369,
+      "name": "Teddy Bear from pump.tires",
+      "address": "0x91Ab48C4988aE5bbEB02aCB8b5cdBCd8225D7974",
+      "symbol": "TEDDY",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/pulsecoin-io/Midgard-tokenlist/main/token-logo-optimized/0x91Ab48C4988aE5bbEB02aCB8b5cdBCd8225D7974.webp"
+    },
+    {
+      "chainId": 369,
+      "name": "Joachim-Silver",
+      "address": "0xFb7B367b80F80421d9d023D01cE9FB846A2aDa88",
+      "symbol": "Thaler",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/pulsecoin-io/Midgard-tokenlist/main/token-logo-optimized/0xFb7B367b80F80421d9d023D01cE9FB846A2aDa88.webp"
+    },
+    {
+      "chainId": 369,
+      "name": "Free-Gold",
+      "address": "0xc57169b5e803F83c28970f0d8a73e2b35d56CE32",
+      "symbol": "Franc",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/pulsecoin-io/Midgard-tokenlist/main/token-logo-optimized/0xc57169b5e803F83c28970f0d8a73e2b35d56CE32.webp"
+    },
+    {
+      "chainId": 369,
+      "name": "Mona-Lisa",
+      "address": "0x03dBe411E19436FE79Ce79DFf09B3E5f7F64644f",
+      "symbol": "Moony",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/pulsecoin-io/Midgard-tokenlist/main/token-logo-optimized/0x03dBe411E19436FE79Ce79DFf09B3E5f7F64644f.webp"
+    },
+    {
+      "chainId": 369,
+      "name": "Teddy Claire",
+      "address": "0xFd96af96B6cFb5F35Fb227b0fE7215903FdAFC68",
+      "symbol": "Claire",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/pulsecoin-io/Midgard-tokenlist/main/token-logo-optimized/0xFd96af96B6cFb5F35Fb227b0fE7215903FdAFC68.webp"
+    },
+    {
+      "chainId": 369,
+      "name": "Tether Gold from Ethereum",
+      "address": "0xD31d5463991f61B6e53b9b5ca574fA731F94991e",
+      "symbol": "XAUt",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/pulsecoin-io/Midgard-tokenlist/main/token-logo-optimized/0xD31d5463991f61B6e53b9b5ca574fA731F94991e.webp"
+    },
+    {
+      "chainId": 369,
+      "name": "Pump Tires Mascot",
+      "address": "0x208614c2db3e24ee2aF701538017c6a34030B1E3",
+      "symbol": "PUMPY",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/pulsecoin-io/Midgard-tokenlist/main/token-logo-optimized/0x208614c2db3e24ee2aF701538017c6a34030B1E3.webp"
+    },
+    {
+      "chainId": 369,
+      "name": "Black-Hole",
+      "address": "0xDC6D73BC3fF1046844386FE0301A8C6355c3E7d3",
+      "symbol": "Zero",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/pulsecoin-io/Midgard-tokenlist/main/token-logo-optimized/0xDC6D73BC3fF1046844386FE0301A8C6355c3E7d3.webp"
+    },
+    {
+      "chainId": 369,
+      "name": "Chinta-Mani",
+      "address": "0xBBC1F6cb4Ed8e1e32CeD17B2809739B093d4EFec",
+      "symbol": "Emerald",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/pulsecoin-io/Midgard-tokenlist/main/token-logo-optimized/0xBBC1F6cb4Ed8e1e32CeD17B2809739B093d4EFec.webp"
+    },
+    {
+      "chainId": 369,
+      "name": "Sparta",
+      "address": "0x52347C33Cf6Ca8D2cfb864AEc5aA0184C8fd4c9b",
+      "symbol": "SPARTA",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/pulsecoin-io/Midgard-tokenlist/main/token-logo-optimized/0x52347C33Cf6Ca8D2cfb864AEc5aA0184C8fd4c9b.webp"
+    },
+    {
+      "chainId": 369,
+      "name": "MISSOR",
+      "address": "0x063E79CF6A555dac9033EAa3c61A8f02F1020759",
+      "symbol": "MISSOR",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/pulsecoin-io/Midgard-tokenlist/main/token-logo-optimized/0x063E79CF6A555dac9033EAa3c61A8f02F1020759.webp"
+    },
+    {
+      "chainId": 369,
+      "name": "urmom",
+      "address": "0xe43b3cEE3554e120213b8B69Caf690B6C04A7ec0",
+      "symbol": "urmom",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/pulsecoin-io/Midgard-tokenlist/main/token-logo-optimized/0xe43b3cEE3554e120213b8B69Caf690B6C04A7ec0.webp"
+    },
+    {
+      "chainId": 369,
+      "name": "Pulse Golden Ticket",
+      "address": "0xA99DF47d9fA5dCbe69211787faE6780bC4172492",
+      "symbol": "GT",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/pulsecoin-io/Midgard-tokenlist/main/token-logo-optimized/0xA99DF47d9fA5dCbe69211787faE6780bC4172492.webp"
+    },
+    {
+      "chainId": 369,
+      "name": "MoonX",
+      "address": "0x1C9c8528f2a1672e0E7eaDA21167a596D126B568",
+      "symbol": "MOONX",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/pulsecoin-io/Midgard-tokenlist/main/token-logo-optimized/0x1C9c8528f2a1672e0E7eaDA21167a596D126B568.webp"
+    },
+    {
+      "chainId": 369,
+      "name": "Quattro Ricos Base",
+      "address": "0x01a77602eCAF9A68372CAC8d4fB247864FAAD154",
+      "symbol": "T4MC",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/pulsecoin-io/Midgard-tokenlist/main/token-logo-optimized/0x01a77602eCAF9A68372CAC8d4fB247864FAAD154.webp"
+    },
+    {
+      "chainId": 369,
+      "name": "Quattro Ricos Son",
+      "address": "0xab24834379a816Bde64a2A54df24D73aC0630dD5",
+      "symbol": "T4MC",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/pulsecoin-io/Midgard-tokenlist/main/token-logo-optimized/0xab24834379a816Bde64a2A54df24D73aC0630dD5.webp"
+    },
+    {
+      "chainId": 369,
+      "name": "Reserve Teh",
+      "address": "0x1D177CB9EfEEa49A8B97ab1C72785a3A37ABc9Ff",
+      "symbol": "FED",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/pulsecoin-io/Midgard-tokenlist/main/token-logo-optimized/0x1D177CB9EfEEa49A8B97ab1C72785a3A37ABc9Ff.webp"
+    },
+    {
+      "chainId": 369,
+      "name": "OLD GLORY",
+      "address": "0x8B42Daf61014F2446c319D22e4deC422B47563F5",
+      "symbol": "OGBNK",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/pulsecoin-io/Midgard-tokenlist/main/token-logo-optimized/0x8B42Daf61014F2446c319D22e4deC422B47563F5.webp"
+    },
+    {
+      "chainId": 369,
+      "name": "YEET",
+      "address": "0x6Afd30110e9fF1b29dB3c4DAf31EF0045a6552cB",
+      "symbol": "YEET",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/pulsecoin-io/Midgard-tokenlist/main/token-logo-optimized/0x6Afd30110e9fF1b29dB3c4DAf31EF0045a6552cB.webp"
+    },
+    {
+      "chainId": 369,
+      "name": "The Fitzgerald Company",
+      "address": "0x99F58b6979756fc129a33797eF796a6178D8A5De",
+      "symbol": "TFC",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/pulsecoin-io/Midgard-tokenlist/main/token-logo-optimized/0x99F58b6979756fc129a33797eF796a6178D8A5De.webp"
+    },
+    {
+      "chainId": 369,
+      "name": "SURF",
+      "address": "0x12828D4cdA7CBfAcd7586E54708A9b9674641bEd",
+      "symbol": "SURF",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/pulsecoin-io/Midgard-tokenlist/main/token-logo-optimized/0x12828D4cdA7CBfAcd7586E54708A9b9674641bEd.webp"
+    },
+    {
+      "chainId": 369,
+      "name": "stCombo",
+      "address": "0x2806F9d083BABbDbB9a92b0722F1b5D4E6FEF6cC",
+      "symbol": "ST3",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/pulsecoin-io/Midgard-tokenlist/main/token-logo-optimized/0x2806F9d083BABbDbB9a92b0722F1b5D4E6FEF6cC.webp"
+    },
+    {
+      "chainId": 369,
+      "name": "Pax Dollar on Pulsechain",
+      "address": "0x8E870D67F660D95d5be530380D0eC0bd388289E1",
+      "symbol": "USDP",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/pulsecoin-io/Midgard-tokenlist/main/token-logo-optimized/0x8E870D67F660D95d5be530380D0eC0bd388289E1.webp"
+    },
+    {
+      "chainId": 369,
+      "name": "DrDoge",
+      "address": "0x9d95DFBB1aBb8F57abc20FDE4F786BB1Db52ad71",
+      "symbol": "DRDOGE",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/pulsecoin-io/Midgard-tokenlist/main/token-logo-optimized/0x9d95DFBB1aBb8F57abc20FDE4F786BB1Db52ad71.webp"
+    },
+    {
+      "chainId": 369,
+      "name": "PulseLand",
+      "address": "0xEE126a8903b1318f2a2Eb739Fd80481da6E028D3",
+      "symbol": "PLAND",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/pulsecoin-io/Midgard-tokenlist/main/token-logo-optimized/0xEE126a8903b1318f2a2Eb739Fd80481da6E028D3.webp"
+    },
+    {
+      "chainId": 369,
+      "name": "PulseChain Peacock",
+      "address": "0xc10A4Ed9b4042222d69ff0B374eddd47ed90fC1F",
+      "symbol": "PCOCK",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/pulsecoin-io/Midgard-tokenlist/main/token-logo-optimized/0xc10A4Ed9b4042222d69ff0B374eddd47ed90fC1F.webp"
+    },
+    {
+      "chainId": 369,
+      "name": "Liberty Swap Mascot",
+      "address": "0x0eB38452FdCCab988838d9BE74e0f00239A876E6",
+      "symbol": "INTERN",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/pulsecoin-io/Midgard-tokenlist/main/token-logo-optimized/0x0eB38452FdCCab988838d9BE74e0f00239A876E6.webp"
+    },
+    {
+      "chainId": 369,
+      "name": "Briah",
+      "address": "0xA80736067abDc215a3b6B66a57c6e608654d0C9a",
+      "symbol": "Briah",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/pulsecoin-io/Midgard-tokenlist/main/token-logo-optimized/0xA80736067abDc215a3b6B66a57c6e608654d0C9a.webp"
+    },
+    {
+      "chainId": 369,
+      "name": "The CVRE Token",
+      "address": "0x483287DEd4F43552f201a103670853b5dc57D59d",
+      "symbol": "CVRE",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/pulsecoin-io/Midgard-tokenlist/main/token-logo-optimized/0x483287DEd4F43552f201a103670853b5dc57D59d.webp"
+    },
+    {
+      "chainId": 369,
+      "name": "UnStable Dick Coin",
+      "address": "0x54b11a4f6536a4e843851bb54e942320a1e705be",
+      "symbol": "USDC",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/pulsecoin-io/Midgard-tokenlist/main/token-logo-optimized/0x54b11a4f6536a4e843851bb54e942320a1e705be.webp"
+    },
+    {
+      "chainId": 369,
+      "name": "uPLS",
+      "address": "0x7FB5120D2DB148e91f572d2f69bC04FE454Dbd9b",
+      "symbol": "uPLS",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/pulsecoin-io/Midgard-tokenlist/main/token-logo-optimized/0x7FB5120D2DB148e91f572d2f69bC04FE454Dbd9b.webp"
+    },
+    {
+      "chainId": 369,
+      "name": "FuckTheVC",
+      "address": "0xe4644C747dE89d363E38a32C19b9741417e79dBD",
+      "symbol": "FTVC",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/pulsecoin-io/Midgard-tokenlist/main/token-logo-optimized/0xe4644C747dE89d363E38a32C19b9741417e79dBD.webp"
+    }
   ]
 }
